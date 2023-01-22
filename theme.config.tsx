@@ -6,6 +6,14 @@ const config: DocsThemeConfig = {
   footer: {
     text: "NORM.TODAY",
   },
+
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s – NORM",
+    };
+  },
+
+  docsRepositoryBase: "https://github.com/Rybindigital/norm-today-basic",
 };
 
 export default config;
