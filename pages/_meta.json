@@ -3,13 +3,13 @@
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
+    "title": "About project",
     "type": "page"
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.instagram.com/rybin.jpg/",
     "newWindow": true
   }
 }
