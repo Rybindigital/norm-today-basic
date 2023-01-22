@@ -1,11 +1,14 @@
 {
-  "index": "Introduction",
+  "index": "Get started",
+  "about": "About",
+
+  "--": {
+    "type": "separator"
+  },
+
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About project",
-    "type": "page"
-  },
+
   "contact": {
     "title": "Contact ↗",
     "type": "page",
